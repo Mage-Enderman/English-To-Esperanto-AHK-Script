@@ -1,4 +1,4 @@
-﻿;TIPS AND NOTES
+;TIPS AND NOTES
 ;Grammar notes will be more helpful once you have a context for understanding them, 
 ;so if you find you're having trouble with the lessons, these notes should be more helpful to you.
 
@@ -253,3 +253,21 @@ return
 ;Eleven is Dek unu/Ten + One so Twelve is Dek du/Ten + Two and so on
 ;Twenty is Dudek/Ten X 2 so twenty two is dudek du/Ten x 2 + 2 and so on
 ;Thirty is Tridek/Ten x 3 and so on I think you get it by now
+
+
+
+
+;    Updater 
+
+Script A (version 1.0) -> check_forupdate()
+
+check_forupdate() -> downloads Script A (version 1.1)
+check_forupdate() -> kills Script A (version 1.0)
+check_forupdate() -> replaces Script A (version 1.0) with Script A (version 1.1)
+check_forupdate() -> starts Script A (version 1.1)
+
+
+Static Script_Name := "English to Esperanto" ;Your script name
+, Version_Number := 1.6 ;The script's version number
+, Update_URL := "https://github.com/Mage-Enderman/English-To-Esperanto-AHK-Script/blob/master/Version.ini" ;The URL of the version.ini file for your script
+, Retry_Count := 3 ;Retry count for if/when anything goes wrong
