@@ -1770,9 +1770,9 @@ avara                          avaricious, miserly, stingy
 avareco                        avarice, miserliness, stinginess
 avarulo                        miser, niggard, skinflint
 avelarbo                       hazel, hazel-tree
-avelo                          hazelnut
+::hazelnut::avelo
 avelujo                        hazel, hazel-tree
-;aveno                          oats
+::oats::aveno
 Aventino                       Aventine
 ;aventura                       adventurous
 ;aventurema                     adventurous
@@ -1790,8 +1790,8 @@ averti                         caution, warn
 averto                         warning
 aviadi                         aviate
 ::areoplane::aviadilo
-aviadisto                      aviator
-aviado                         aviation
+::aviator::aviadisto
+::aviation::aviado
 avida                          avid, eager for, greedy
 avideco                        avidity, covetousness, eagerness, greediness
 avidi                          covet
@@ -2054,40 +2054,50 @@ Demetro                        Demeter
 demisii                        resign
 demokrata                      democratic
 demokratio                     democracy
-demokrato                      democrat
-demona                         demonic
-demono                         demon
-demonstracii                   demonstrate
-demonstracio                   demonstration
-demonstrativo                  demonstrative, demonstrative pronoun
-demonstri                      demonstrate, prove
-demonstro                      demonstration
-demordi                        bite off
-denaska                        congenital, inborn, inbred, innate, native
+:?:democrat::demokrato
+:?:demonic::demona
+:?:demon::demono
+:?:demonstrate::demonstracii
+::demonstration::demonstracio
+::demonstrative::demonstrativo
+::prove::demonstri
+;;;; ::demonstration::demonstro
+::bite off::demordi
+::congenital::denaska
+::inborn::denaska
+::inbred::denaska
+::innate::denaska
+::native::denaska
 denombrado                     ennumeration
-denove                         again, all over again, anew
+::again::denove
+::all over again::denove
+::anew::denove
 densa                          concentrated, dense, thick
-denta                          dental
-dentaro                        teeth
-dentbroso                      tooth-brush
-dentdoloro                     toothache
-dentisto                       dentist
+::dental::denta
+::teeth::dentaro
+::toothbrush::dentbroso
+::tooth-brush::dentbroso
+:::toothache::dentdoloro
+::dentist::dentisto
 dentkarno                      gum
-dento-                         dental
-dentpasto                      tooth-paste
-dentpikilo                     toothpick
-dentpingilo                    toothpick
-dentpinglo                     toothpick
-dentrado                       cogwheel, gear
-dentskrapi                     gnaw off, pick
+;;;;; dento-                         dental
+::toothpaste::dentpasto
+::tooth-paste::toothpaste
+;dentpikilo                     toothpick
+;dentpingilo                    toothpick
+;dentpinglo                     toothpick
+::cogwheel::dentrado
+::gear::dentrado
+::gnaw off::dentskrapi
+::pick::dentskrapi
 denuncanto                     accuser
-denunci                        denounce
+::denounce::denunci
 denunco                        accusation
-departemento                   department
-dependa                        dependent
-depende de                     according to
-dependeco                      dependence
-dependi                        depend
+::department::departemento
+::dependent::dependa
+::according to::depende de
+::dependence::dependeco
+:?:depend::dependi
 dependi de                     be dependent on, depend onldepend upon
 depeŝi                         dispatch
 deponejo                       depository
@@ -5281,9 +5291,7 @@ japano                         Japanese
 Japanujo                       Japan
 jarcento                       centennial, century
 jardeko                        decade
-jardo                          yard
-jardo[1]                       yard
-jardo[2]                       yard
+::yard::jardo
 jarfina tago                   New Year's Eve
 jargono                        gibberish, jargon, lingo
 jarlibro                       year-book
@@ -5303,27 +5311,32 @@ jemena                         Yemeni
 jemenanino                     Yemeni woman
 jemenano                       Yemeni
 Jemeno                         Yemen
-jen                            behold, here is, here are, look, there
-jen ... jen                    sometimes ... sometimes
-jene                           thus
+::behold::jen
+::here is::jen
+::here are::jen
+::look::jen
+::there::jen
+::sometimes ... sometimes::jen ... jen
+::thus::jene
 Jeriĥo                         Jericho
 Jerusalemo                     Jerusalem
 Jeruzalemo                     Jerusalem
-jes                            yes
+::yes::jes
 jesi                           assent, say yes
 jeso                           assent
 Jesuo                          Jesus
 Jesuo Kristo                   Jesus Christ
-jeto                           jet plane
-Jezuo                          Jesus
+::jet plane::jeto            
+::Jesus::Jezuo
 jida                           Yiddish
-jodli                          yodel
+::yodel::jodli
 jodo                           iodine
-jogo                           yoga
-jogurto                        yoghourt, yoghurt
+::yoga::jogo
+::yoghourt::jogurto
+::yoghurt::jogurto
 Johanesburgo                   Johannesburg
-jokero                         wild card
-jokersigno                     wild card
+::wild card::jokero
+;;; jokersigno                     wild card
 Jonika Maro                    Ionian Sea
 jordanĝero                     danger of skidding
 Jordanio                       Jordan
@@ -5339,9 +5352,9 @@ jubilea                        jubilee
 jubileo                        jubilee
 jubili                         exult
 jubilo                         exultation, jubilation
-juda                           Jewish
-judismo                        Judaism
-judo                           Jew
+::jewish::juda
+::judaism::judismo
+:?:jew::judo
 jugi                           yoke
 juglandarbo                    walnut-tree
 juglando                       walnut
@@ -5364,7 +5377,7 @@ juĝisto                        judge
 juĝo                           judgment
 juki                           itch
 juko                           itch
-julio                          July
+::July::julio
 Julo                           Yule
 juna                           young
 juna angilo                    elver
@@ -5381,7 +5394,7 @@ junulo                         youngster, youth
 Jupitro                        Jove, Jupiter
 Jupitro[1]                     Jove, Jupiter
 Jupitro[2]                     Jove, Jupiter
-jupo                           skirt
+::skirt::jupo
 juristo                        jurist, lawyer
 Juro                           Jura
 justa                          fair, just, righteous
@@ -14268,18 +14281,19 @@ zorga                          careful, tender
 zorgato                        pupil
 zorgeme                        carefully
 zorgetoj                       worries
-zorgi                          care, see, take care, worry
-zorgi por                      care for
-zorgi pri                      care about, take care of
+::zorgi                          care, see, take care, worry
+::care for::zorgi por
+::care about::zorgi pri
+::take care of::zorgi pri
 zorgo                          care, concern
-zorgoj                         worries
-zorgplena                      anxious
-zorgplene                      anxiously
- lua lingvo xxxx              Zulu, Zulu language
+::worries::zorgoj
+::anxiously::zorgplena
+:?:anxious::zorgplene
+::zulu::zulua
+::zulu language::zulua lingvo
 ::hum::zumi
 ::buzz::zumi
 ::buzzer::zumilo
-
 
 
 
