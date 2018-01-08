@@ -2009,9 +2009,9 @@ dekono                         tenth
 dekonsili                      advise against, dissuade from
 dekontigi                      transfer
 dekope                         by tens
-dekoracio                      decor, d@cor, decoration
+dekoracio                      decor, decor, decoration
 dekori                         adorn, decorate, ornament
-dekoro                         decor, d@cor, decoration
+dekoro                         decor, decor, decoration
 dekreti                        decree
 dekreto                        decree
 dekroĉi                        unhook
@@ -2407,16 +2407,17 @@ donkiĥoto                      Don Quixote
 dorika                         Dorian, Doric
 dorloti                        coddle, pamper, pet
 dormĉambro                     bedroom
-dormĉemizo                     night-shirt
+::night shirt::dormĉemizo
+::night-shirt::dormĉemizo
 dormejo                        sleeping-accomodation, sleeping-place
 dormema                        sleepy
 dormetema                      drowsy
 dormeti                        nap, slumber
-dormi                          be asleep, sleep
-dormi sur                      sleep on
-dormigi                        put to sleep
-dorminklina                    drowsy
-dormo                          sleep
+::be asleep::dormi
+::sleep on::dormi sur
+::put to sleep::dormigi
+::drowsy::dorminklina
+::sleep::dormo
 dormrobo                       night-dress, night-gown, nightie
 dornarbusto                    thorn bush
 dorno                          thorn
@@ -2455,27 +2456,30 @@ drinkemulo                     boozer, alcoholic
 drinki                         drink, drink to excess
 drinkulo                       boozer, alcoholic
 drivi                          drift, be adrift
-drogekscitita                  high
-drogo                          drug
+::high::drogekscitita
+::drug::drogo
 dromedaro                      dromedary
 droni                          drown
 dronigi                        drown
 dronmarĉejo                    quicksand, quicksands
-du                             two
+:?:two ::du 
 du semajnoj                    fortnight, two weeks
-dua                            second
-duaranga                       secondary
+:?:second::dua
+::secondary::duaranga                       secondary
 duba                           doubtful
 dubi                           doubt
 dubinda                        doubtful
 Dublino                        Dublin
 dubo                           doubt
-ducent                         two hundred
-dudek                          twenty
-dudek unu                      twenty-one
-dudeka                         twentieth
-duelbirdo                      fighting cock, gamecock, ruff
-dufoje                         twice
+::two hundred::ducent                         two hundred
+:?:twenty ::dudek 
+:?:twenty-one::dudek unu
+::twenty one::dudek unu
+::twentieth::dudeka
+::fighing cock::duelbirdo
+::gamecock::duelbirdo
+::ruff::duelbirdo
+::twice::dufoje
 Duglaso                        Douglas
 dujara                         biennial, two-year, two-year-old
 Dukbosko                       Bois-le-Duc
@@ -2510,7 +2514,8 @@ duondiino                      demigodess
 duondio                        demigod
 duonebria                      tipsy
 duonfali                       stumble
-duonfratino                    half-sister
+::half-sister::duonfratino                    
+::half ister
 duonfrato                      half-brother
 duoninsulo                     peninsula
 duonluma                       dim
