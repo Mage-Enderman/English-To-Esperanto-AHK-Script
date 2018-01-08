@@ -5594,7 +5594,7 @@ kanejo                         cane-field
 kanelo                         slot
 kanibalo                       cannibal
 kanistro                       fuel tank
-kanjono                        ca@on
+kanjono                        canon
 kankro                         crayfish
 kano                           cane, reed
 kanonigo                       canonization
@@ -6818,14 +6818,22 @@ kunsido                        meeting
 kuntiriĝi                      cower, shrink
 kunularo                       company
 kunulo                         companion
-kunveni                        assemble, congregate, gather, meet
-kunvenigi                      take along
-kunveno                        assemblage, gathering, meeting
-kunvivi                        huddle
+::assemble::kunveni
+::congregatekunveni
+::gather::kunveni
+:?:meet::kunveni
+::take along::kunvenigi
+::assemblage::kunveno 
+::gathering::kunveno
+::meeting::kunveno
+::huddle::kunvivi
 kunvoki                        convoke
-kunvoko                        parade, roll-call
-kuo                            Q
-kupeo                          compartment, coup@
+::parade::kunvoko
+::roll-call::kunvoko
+::roll call::kunvoko
+:?:Q::Kuo                               
+::compartment::kupeo
+::coupe::kupeo
 kupli                          couple
 kupolo                         cupola, dome
 kupono                         coupon
