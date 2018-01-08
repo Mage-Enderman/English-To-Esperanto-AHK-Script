@@ -128,9 +128,9 @@ absejli                        abseil
 absintaĵo                      absinth
 absintlikvoro                  absinth
 absinto                        absinth
-absoluta                       absolute
-absolute                       absolutely
-absolutismo                    absolutism
+::absolute::absoluta
+::absolutely::absolute
+::absolutism::absolutismo
 absolvi                        absolve
 absolvo                        absolution
 absorba                        absorbent
