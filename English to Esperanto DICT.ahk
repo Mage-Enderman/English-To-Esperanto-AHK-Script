@@ -1963,24 +1963,23 @@ dehaki                         cut off
 deirpunkto                     starting point
 deĵeti                         cast off, fling off, throw off
 deĵori                         be on duty, serve
-dek                            ten
-dek du                         twelve
-dek-dua                        twelfth
-dek kvar                       fourteen
-dek-kvara                      fourteenth
-dek kvin                       fifteen
-dek-kvina                      fifteenth
-dek naŭ                        nineteen
-dek-naŭa                       nineteenth
-dek ok                         eighteen
-dek-oka                        eighteenth
-dek sep                        seventeen
-dek-sepa                       seventeenth
-dek ses                        sixteen
-dek-sesa                       sixteenth
-dek tri                        thirteen
-dek-tria                       thirteenth
-dek unu                        eleven
+:?:ten::den
+:?:twelve::dek du
+::twelfth::dek-dua
+:?:fourteen::dek kvar
+:?:fourteenth::dek-kvara
+:?:fifteen::dek kvin
+::fifteenth::dek-kvina
+:?:nineteen::dek naŭ
+::nineteenth::dek-naŭa
+:?:eighteen::dek ok
+::eighteenth::dek-oka
+:?:seventeen::dek sep
+::seventeenth::dek-sepa
+:?:sixteen::dek ses
+::sixteenth::dek-sesa
+:?:thirteen::dek tri
+::thirteenth::dek-tria                  :?:dek una::
 dek-unua                       eleventh
 deka                           tenth
 dekalkulebla                   deductible
