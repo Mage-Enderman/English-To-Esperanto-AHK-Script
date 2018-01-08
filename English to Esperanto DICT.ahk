@@ -14309,7 +14309,7 @@ check_forupdate() -> replaces Script A (version 1.0) with Script A (version 1.1)
 check_forupdate() -> starts Script A (version 1.1)
 
 
-Static Script_Name := "English to Esperanto" ;Your script name
+Static Script_Name := "English to Esperanto DICT" ; This scripts name
 , Version_Number := 1.0 ;The script's version number
 , Update_URL := "https://github.com/Mage-Enderman/English-To-Esperanto-AHK-Script/blob/master/OTHERVersion.ini" ;The URL of the version.ini file for your script
 , Retry_Count := 3 ;Retry count for if/when anything goes wrong
