@@ -259,15 +259,4 @@ return
 
 ;    Updater 
 
-Script A (version 1.0) -> check_forupdate()
-
-check_forupdate() -> downloads Script A (version 1.1)
-check_forupdate() -> kills Script A (version 1.0)
-check_forupdate() -> replaces Script A (version 1.0) with Script A (version 1.1)
-check_forupdate() -> starts Script A (version 1.1)
-
-
-Static Script_Name := "English to Esperanto" ;Your script name
-, Version_Number := 1.6 ;The script's version number
-, Update_URL := "https://github.com/Mage-Enderman/English-To-Esperanto-AHK-Script/blob/master/Version.ini" ;The URL of the version.ini file for your script
-, Retry_Count := 3 ;Retry count for if/when anything goes wrong
+If gg= 1 then urlDownloadToFile, https://github.com/Mage-Enderman/English-To-Esperanto-AHK-Script/blob/master/English%20to%20Esperanto.ahk, English To Esperanto.ahk ;
