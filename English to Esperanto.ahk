@@ -259,4 +259,4 @@ return
 
 ;    Updater 
 
-If gg= 1 then urlDownloadToFile, https://github.com/Mage-Enderman/English-To-Esperanto-AHK-Script/blob/master/English%20to%20Esperanto.ahk, English To Esperanto.ahk ;
+urlDownloadToFile, https://github.com/Mage-Enderman/English-To-Esperanto-AHK-Script/blob/master/English%20to%20Esperanto.ahk, English To Esperanto.ahk
