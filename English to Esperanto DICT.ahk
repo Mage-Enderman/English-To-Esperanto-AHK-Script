@@ -3658,18 +3658,18 @@ flusa                          flood
 fluso                          flood, high tide
 flustrado                      whisper
 flustri                        whisper
-fluto                          flute
-FM-dissendilo                  FM transmitter
-FM-ricevilo                    FM receiver
-fobio                          phobia
+::flute::fluto
+::FM transmitter::FM-dissendilo
+::FM receiver::FM-ricevilo
+::phobia::fobio
 foirkomercisto                 market trader
 foiro                          fair, market
 foja                           occasional
 foje                           once, on occasion, sometimes
-fojnamaso                      haystack
-fojno                          hay
+::haystack::fojnamaso
+::hay::fojno
 fojo                           occasion, time
-foko                           seal
+::seal::foko
 fokuso                         focus
 foldo                          slot
 foliaro                        foliage
@@ -3679,16 +3679,16 @@ folkloro                       folklore
 fondaĵo                        foundation
 fondi                          erect, establish, found
 fonduso                        fund
-fonetika                       phonetic
-fonetiko                       phonetics
-fono                           background
-fonoforo                       hearing aid
-fonografo                      cylinder phonograph
-fontano                        fountain
+::phonetic::fonetika
+::phonetics::fonetiko
+::background::fono
+::hearing aid::fonoforo
+::cylinder phonograph::fonografo
+::fountain::fontano
 fonti                          spring, well up
 fonto                          fountain, source, spring
 fontplumo                      fountain-pen, fountain pen
-for                            away
+::away::for
 fora                           distant, far, remote
 forbati                        beat off, knock off, strike off
 forbruli                       be burnt down
@@ -3706,29 +3706,29 @@ foresteco                      absence, non-attendance
 foresti                        be absent, be missing
 foresto                        absence
 forflankiĝi                    go astray, stray off
-forflugi                       fly away
+::fly away::forflugi
 forflui                        flow down, flow off
 forfosi                        dig off, level
-forgesema                      forgetful
-forgesi                        forget
-forĝi                          forge
-forĝisto                       smith
+::forgetful::forgesema
+::forget::forgesi
+::forge::forĝi
+::smith::forĝisto
 forigi                         do away with, get rid of, remove
 forigi la manĝilaron           clear away, remove the cloth
 forigo                         abolition
 foriri                         absent onself, depart, go away, leave
-foriri malfiere                slink off
-foriro                         departure
+::slink off::foriri malfiere
+::departure::foriro
 forĵetaĵo                      refuse, rubbish, waste
-forĵeti                        throw away
+::throw away::forĵeti
 forĵetindaĵo                   garbage, leavings, refuse, rubbish, waste
 forklini                       parry, ward off
-forko                          fork
+::forko::forko
 forkondukado                   carrying off, discharge
 forkonduki                     divert
 forkonduko                     carrying off, discharge
 forkonsenti                    relinquish, renounce, waive
-forkonsumi                     use up
+::use up::forkonsumi
 forkuri                        abscond
 forlasi                        abandon, forsake, desert, leave, quit
 forlasi ĵure                   abjure, forswear, swear off, renounce
@@ -3737,20 +3737,23 @@ forlaso                        abandonment
 forlavi                        wash off
 forlesivi                      wash off
 forloga                        repellent, repelling, repulsive
-formala                        formal
-formanĝi                       eat up
-formetejo                      shed
-formeti                        put away, store
-formi                          form, shape
+::formal::formala
+::eat up::formanĝi
+::shed::formetejo
+::put away::formeti
+::store::formeti
+::form::formi
+::shape::formi
 formikmanĝulo                  anteater
 formiko                        ant, emmet
-formikurso                     anteater
+::anteater::formikurso
 formo                          form, shape
-formorti                       die away, fail
-Formoso                        Formosa
+::fail::formorti
+; ::die away::formorti
+::Formosa::Formoso
 formularo                      blank, form
-formuli                        formulate
-formulo                        formula
+::formulate::formuli
+::formula::formulo
 fornaĝi                        swim away
 forno                          furnace, kiln, oven, stove
 forpasi                        march off, retreat, withdraw
@@ -5822,8 +5825,8 @@ kazo                           afair, case, matter
 kazo[1]                        affair, case, matter
 ::case::kazo
 ke                             that
-keglo                          pin
-keiranto                       wallflower
+::pin::keglo
+::wallflower::keiranto
 kelidonio                      greater celandine
 kelka                          some
 kelkaj                         a few, any, some
@@ -5890,8 +5893,8 @@ kimro                          Welshman
 Kimrujo                        Wales
 kinejo                         cinema, movie theatre
 kinino                         quinine
-kino                           cinema
-kinofilmo                      movie
+::cinema::kino
+::movie::kinofilmo
 Kinstono ĉe la Hulo            Kingston upon Hull
 kio                            what, which
 kio ajn                        whatever
@@ -5948,8 +5951,8 @@ klasika                        classic, classical
 klaso                          class
 klaŭno                         clown
 klaŭzo                         clause
-klavaro                        keyboard
-klavo                          key
+::keyboard::klavaro
+::key::klavo
 kleo                           clef
 Kleopatro                      Cleopatra
 klera                          cultured, educated, learned, well-informed
@@ -5967,15 +5970,15 @@ klingo                         blade
 klini                          bend, incline, tilt
 klini sin                      bend, stoop
 kliniĝi                        stoop
-kliniĝi antaŭen                bend over
+::bend over::kliniĝi antaŭen
 kliniko                        clinic
 kliŝaĵo                        clich@, stereotype
 kliŝo                          clich@, cut, half-tone, negative, stereotype
-kloako                         sewer
+::sewer::kloako
 Kloĥo                          Clough
 klopodi                        aim, attempt, endeavour, take steps, undertake
 klopodo                        attempt, effort
-kloro                          chlorine
+::chlorine::kloro
 klubano                        club member
 klubo                          club, society
 kluĉilo                        clutch
