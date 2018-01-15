@@ -5637,7 +5637,7 @@ kapreolido                     fawn
 kapreolo                       roe
 kaprica                        capricious, fitful
 kaprico                        caprice, whim
-kaprido                        kid
+::kid::kaprido
 Kaprikorno                     Capricorn
 kaprimulgo                     nightjar
 kaprino                        she-goat
@@ -5691,11 +5691,12 @@ kareo                          curry
 karesema                       affectionate, caressing, cuddlesome, cuddly
 karesi                         caress, chuck, fondle, stroke
 kareso                         caress, chuck, stroke
-karespremi                     cuddle, hug
-kargo                          cargo
+::cuddle::karespremi
+::hug::karespremi
+::cargo::kargo
 Karia Maro                     Karian Sea
 Karibdo                        Charybdis
-kariero                        career
+::career::kariero
 kariljonisto                   carillonneur
 kariljono                      carillon, chimes
 kariofila fromaĝo              clove-cheese
@@ -5784,8 +5785,8 @@ kateĥismo                      catechism
 kateni                         fetter, shackle
 kateno                         fetter, shackle
 katido                         kitten
-katino                         female cat
-kato                           cat
+::female cat::katino
+::cat::kato
 katolika                       Catholic
 katolikismo                    Catholisism
 katoliko                       catholic
@@ -5795,7 +5796,8 @@ kaŭĉukarbo                     rubber tree
 kaŭĉuko                        rubber
 Kaŭkazoj                       Caucasus
 kaŭri                          cower, crouch, squat
-kaŭze de                       because of, on account of
+::because of::kaŭze de
+::on account of::kaŭze de
 kaŭzi                          cause, give rise to
 kaŭzi malprofiton              harm, hurt, injure, prejudice
 kaŭzi malutilon al             harm, hurt, injure, prejudice
@@ -5807,7 +5809,7 @@ kavalerio                      cavalry
 kaveca                         hollow
 kaverna                        hollow
 kaverno                        cave, cavern, den
-kaviaro                        caviar
+::caviar::kaviaro
 kavio                          guinea-pig, guinea pig
 kavo                           cave, cavity
 kavokula                       hollow-eyed
@@ -5815,10 +5817,10 @@ kazaĥa                         Kazak, Kazakh
 Kazaĥio                        Kazakhstan
 Kazaĥujo                       Kazakhstan
 kazerno                        barracks
-kazino                         casino
+::casino::kazino
 kazo                           afair, case, matter
 kazo[1]                        affair, case, matter
-kazo[2]                        case
+::case::kazo
 ke                             that
 keglo                          pin
 keiranto                       wallflower
@@ -5833,7 +5835,7 @@ kelnero                        waiter
 kelo                           basement, cellar
 kelta                          Celtic
 kelto                          Celt
-kemiisto                       chemist
+::chemist::kemiisto
 kemio                          chemistry
 kenja                          Kenyan
 kenjanino                      Kenyan woman
@@ -5845,18 +5847,19 @@ Kerbero                        Cerberus
 Kergeloj                       Kerguelen
 kermeso                        fair
 kerno                          core, nucleus, kernel, pit
-kesto                          box, chest
+::box::kesto
+::chest::kesto
 kia                            what kind of, what sort of
 kiagrade                       to what extent
-kial                           why
-kial[1]                        what for, why
+::why::kial
+::what for::kial
 kial[2]                        why
 kialo                          reason
 kiam                           as, when
 kiam[1]                        when
 kiam[2]                        when
-kiamaniere[1]                  how, in what way
-kiamaniere[2]                  how, in what way
+::in what way::kiamaniere
+::how::kiamaniere
 kibico                         bushbody, meddler
 kibuco                         kibbutz
 kie ajn                        wherever
@@ -7522,7 +7525,9 @@ malabunda                      in short supply
 malafabla                      brutal, gruff, harsh, rough, sour, surly, unkind, unpleasant
 malafablega                    grim
 Malagasio                      Madagascar
-malagrabla                     bleak, dismal, dreary, horrible, ghastly, grisly, nasty
+malagrabla                     
+bleak, dismal, dreary, horrible, ghastly, grisly, nasty
+
 malagrabla laboreto            bad job
 malaja                         Malay
 Malajgo                        Mallaig
@@ -7537,7 +7542,7 @@ malakcepto                     rejection
 Malako                         Malacca
 malakra                        blunt
 malakrigi                      blunt
-malalta                        low
+::low::malalta
 malalta lernejo                grammar school, primary school
 malaltega prezo                distress prize, rock-bottom prize
 malaltgermana                  Low German
@@ -7547,11 +7552,11 @@ malaltigo                      abasement
 malaltreliefo                  bas-relief, low relief
 malaltvalora                   inferior
 malami                         hate
-malamika                       hostile
+::hostile::malamika
 malamikeco                     enmity
-malamiko                       enemy
+::enemy::malamiko
 malaminda                      nasty
-malamo                         hate
+::hate::malamo
 malantaŭ                       behind, after
 malantaŭa akso                 back axle, hind axle, rear axle
 malantaŭa benko                back seat, rear seat
@@ -7594,30 +7599,33 @@ malbone                        badly
 malbonfaro                     outrage
 malbonfartanta                 not well, unwell
 malbonhumora                   cross, peevish, pettish, petulant
-malbonigi                      spoil
-malboniĝi                      go bad
+::spoil::malbonigi
+::go bad::malboniĝi
 malboniĝo                      corruption, decay, depravation, taint
 malbonkvalita                  inferior
 malbonŝance                    unfortunately
 malbonŝanco                    bad luck
 malcedi                        confront
-malĉasta                       lewd
-malĉaste                       lewdly
-malĉastulino                   slut, trollop
+::lewd::malĉasta
+::lewdly::malĉaste
+::slut::malĉastulino
+::trollop::malĉastulino
 maldekstra                     left
 maldekstra flanko              left, left side
 maldekstre                     on the left
 maldekstren                    left, to the left
 maldelikata                    coarse, crude, harsh
 maldetala                      general, vague
-maldika                        gaunt, lean, slender, thin
-maldiligenta                   lazy
-maldiligenteco                 laziness
-maldiskreta                    meddlesome
-maldiskreteco                  meddlesomeness
-maldolĉa                       bitter
-maldolĉeco                     bitterness
-maldorma                       awake
+maldika                        
+gaunt, lean, slender, thin
+
+::lazy::maldiligenta
+::laziness::maldiligenteco
+::meddlesome::maldiskreta
+::meddlesomeness::maldiskreteco
+::bitter::maldolĉa
+::bitterness::maldolĉeco
+::awake::maldorma
 maldunga aranĝo                redundancy pay, redundancy scheme, severance scheme
 maldungi                       discharge, dismiss, fire, sack
 maldungo                       discharge, paying off
@@ -7625,7 +7633,7 @@ male                           on the contrary
 malebena                       bumpy
 malebenaĵo                     bump
 malebligi                      bar, inhibit, prevent
-malebria                       sober
+::sober::malebria
 malediva                       Maldivian
 maledivano                     Maldivian
 Maledivoj                      Maldive Islands, Maldives
@@ -7655,10 +7663,10 @@ malfermegi la buŝon            open one's mouth wide
 malfermetita                   ajar
 malfermi                       open, open up
 malfermiĝi svinge              swing open
-malfermita                     open
-malfermo                       opening
-malfida                        suspicious
-malfidela                      unfaithful
+::open::malfermita
+::opening::malfermo
+::suspicious::malfida
+::unfaithful::malfidela
 malfideliĝi                    apostatize, desert, secede
 malfideliĝo                    apostasy, defection
 malfidelulo                    deserter, renegade
@@ -7718,7 +7726,7 @@ malhonesta                     nasty
 malia                          Malian
 malianino                      Malian woman
 malica                         malicious, mischievous, nasty, vicious
-malice ruza                    shrewd
+::shrewd::malice ruza
 malico                         craft, craftiness, cunning, guile
 maligna                        vicious
 malinhibicio                   abandon
@@ -7776,7 +7784,8 @@ malligi                        untie
 malloga                        repellent, repelling, repulsive
 mallonga                       brief, short
 mallongan tempon               a while, momentarily
-mallongdaŭra                   short-lived
+::short-lived::mallongdaŭra
+::short lived::mallongdaŭra
 mallongigaĵo                   abbreviation, abridgement
 mallongigi                     abbreviate, abridge, shorten
 mallongigo                     abbreviation
@@ -7822,9 +7831,10 @@ malplej                        fewest, least
 malplena                       empty, void
 malpleneco                     emptiness
 malplenigi                     empty
-malpli                         fewer, less
-malpli kaj malpli              less and less
-malplialtigi                   decrease, lower
+::fewer::malpli
+::less::malpli
+;;;::less and less::malpli kaj malpli
+::decrease::malplialtigi
 malplialtiĝi                   go down
 malpliboniĝi                   decline, go back, fall off
 malplifortiĝi                  abate, settle
@@ -7840,8 +7850,8 @@ malplivarmigi                  cool, cool down
 malplivarmiĝi                  get cold
 malplivarmiĝo                  cooling
 malpolurita                    frosted
-malprava                       wrong
-malpravi                       be wrong
+::wrong::malprava
+::be wrong::malpravi
 malpreferi                     subordinate
 malprefero                     neglect, slighting
 malprofito                     loss
@@ -7854,7 +7864,7 @@ malproksimeco                  distance
 malproksimiĝi                  blow over
 malpropra                      another man's, other people's
 malprosperi                    decline, recede
-malprospero                    decay
+::decay::malprospero
 malprotesto                    acquiescence, resignation, submission
 malpura                        dirty, filthy, nasty, soiled, unclean
 malpureco                      dirtiness, untidiness
@@ -7867,18 +7877,19 @@ malrapidvagonaro               slow train
 malrespektigi                  abase
 malrespektigi sin              abase oneself
 malrespektigo                  abasement
-malriĉa                        miserable, poor
-malriĉeco                      poverty
+::poor::malriĉa
+::poverty::malriĉeco
 malriĉulejo                    almshouse, almonry, workhouse
 malriĉulo                      pauper, poor man
 malriĉulprizorgado             almonership
 malriĉulprizorgisto            almoner
 malrigi                        dismantle, unrig
-malsaĝa                        foolish
-malsaĝulo                      fool
-malsama                        different
+::foolish::malsaĝa
+::fool::malsaĝulo
+::different::malsama
 malsamkreda                    dissenting
-malsana                        ill, sick
+::ill::malsana
+::sick::malsana
 malsanejo                      hospital
 malsaneta                      not well, upset
 malsani                        be ailing
@@ -7888,15 +7899,15 @@ malsanulejo                    hospital
 malsanulo                      patient
 malsata                        hungry
 malsatego                      famine
-malsati                        be hungry
-malsato                        hunger
+::be hungry::malsati
+::hunger::malsato
 malseka                        wet
 malseka sezono                 wet season
 malsekaĵo                      damp
 malsekeco                      damp
 malseketa                      moist
-malseketigi                    dampen
-malsekiĝi                      get wet
+::dampen::malseketigi
+::get wet::malsekiĝi
 malserena                      dismal, dreary
 malseriozaĵo                   old wives' tale
 malservi                       be detrimental to, detract from, do harm to
@@ -7958,62 +7969,73 @@ malvarmeta sezono              cool season
 malvarmetiĝi                   cool, cool down
 malvarmo                       cold
 malvarmumo                     cold
-malvasta                       close, cramped
-malvastejo                     narrow space
-malvenko                       defeat
-malvera                        false, untrue
+::cramped::malvasta
+close
+
+::narrow space::malvastejo
+::defeat::malvenko
+::false::malvera
+::untrue::malvera
 malvirto                       vice
-malvolvado                     unwinding
-malvolvi                       unroll
-malzorga                       careless, neglectful, negligent, remiss
-malzorgeco                     carelessness, negligence, remissness
-mambesto                       mammal
-mamego                         udder
-mamnutri                       suckle
-mamo                           breast, teat
-Mamono                         Mammon
-mampinto                       nipple
+::unwinding::malvolvado
+::unroll::malvolvi
+::careless::malzorga                       
+::neglectful::malzorga
+::negligent::malzorga
+::remiss::malzorga
+::carelessness::malzorgeco 
+::negligence::malzorgeco
+::remissness::malzorgeco
+::mammal::mambesto
+::udder::mamego
+::suckle::mamnutri
+::breast::mamo
+::teat::mamo
+::Mammon::Mamono 
+::nipple::mampinto
 mamulo                         mammal
-mamzono                        bra
+::bra::mamzono
 manĉua                         Manchurian
 manĉuo                         Manchurian
 manĉura                        Manchurian
 Manĉurio                       Manchuria
 Manĉurujo                      Manchuria
-mandarino                      tangerine
-mandato                        mandate
+::tangerine::mandarino
+::mandate::mandato
 manfaritaĵo                    handiwork
 mangano                        manganese
-mango                          mango
+;;mango                          mango
 mangostano                     mangosteen
 mangujo                        mango tree, mango-tree
-manĝaĵo                        food
+::food::manĝaĵo
 manĝaĵoŝranko                  larder, pantry, store-cupboard
-manĝebla                       edible
-manĝejo                        dining-room
-manĝi                          eat, feed
-manĝigi                        feed
+::edible::manĝebla
+::dining-room::manĝejo
+::dining room::manĝejo
+; manĝi                          eat, feed
+; manĝigi                        feed
 manĝilara lavilo               detergent, washing-up liquid
-manĝilaro                      forks, knives and spoons
-manĝo                          meal
-manĝobastonetoj                chopsticks
-manĝoĉambro                    dining-room
-manĝokarto                     menu
-manĝoprovizejo                 pantry
+; ::forks knives and spoons::manĝilaro
+::meal::manĝo
+::chopsticks::manĝobastonetoj
+; manĝoĉambro      dining-room
+::menu::manĝokarto
+::pantry::manĝoprovizejo
 Manĝurio                       Manchuria
 maniero                        manner, mode, way
-manifestacii                   demonstrate
-manifestacio                   demonstration
-manifesti                      demonstrate, manifest, show
-manifesto                      manifest
-Manika Kolo                    Street of Dover
-Manikaj Insuloj                Channel Islands
-Maniko                         the Channel, the English Channel
-Manikuagano                    Manikuagan
-manikuri                       manicure
-Manilo                         Manila
-manioko                        cassave
-manipulado                     treatment
+::demonstrate::manifestacii
+::demonstration::manifestacio
+::manifest::manifesti
+::show::manifesti
+::manifest::manifesto
+;Manika Kolo                    Street of Dover
+;Manikaj Insuloj                Channel Islands
+;Maniko                         the Channel, the English Channel
+;Manikuagano                    Manikuagan
+::manicure::manikuri
+;Manilo                         Manila
+;manioko                        cassave
+::treatment::manipulado
 manipuli                       handle, manipulate
 Manitobolago                   Lake Manitoba
 mankanta                       absent
@@ -9724,16 +9746,18 @@ paroka                         parochial
 parokano                       parishioner
 parokestro                     pastor, vicar
 paroko                         parish
-parolado                       speech
-parolema                       talkative
-paroli                         speak, talk
+::speech::parolado
+::talkative::parolema
+::speak::paroli
+::talk::paroli
 paroli sensence                drivel, twaddle
 parolkapablo                   speech
 parolmaniero                   speech
 parolo                         speech
 parte                          partially, partly
 partero                        parterre
-partia                         biased, partial
+::partial::partia
+::biased::partia
 partianiĝi kun                 side with
 partiano                       member, supporter
 partianoj                      adherents, disciples, followers, party members
@@ -9775,9 +9799,9 @@ paŝtejo                        meadow
 paŝtelo                        pastel
 paŝti                          feed
 paŝtiĝi                        graze
-paŝtisto                       shepherd
+::shepherd::paŝtisto
 Patagonio                      Patagonia
-patento                        patent
+::patent::patento
 pato                           frying-pan, frying pan
 patriarko                      patriarch
 patrico                        die, stamp
@@ -9824,42 +9848,45 @@ pedio                          Pedi
 Pegaso                         Pegasus
 pego                           woodpecker
 pejzaĝo                        landscape, scenery
-peka                           sinful
-peki                           sin, transgress
+::sinful::peka
+peki          
+sin, transgress
+
 Pekino                         Peiping, Peking
-pekli                          pickle
-peklita viando                 salt meat, salted meat
+::pickle::pekli
+::salted meat::peklita viando
 peko                           sin, transgression
-pelargonio                     geranium
+::geranium::pelargonio
 peli                           chase, drive, drive on, impel, shoo
 peli piedbate malsupren        kick down, kick off
-pelikano                       pelican
+::pelican::pelikano
 pelto                          fur, fur coat, fur piece
 peltoĉapo                      bearskin, bearskin cap
 pelvo                          basin, bowl, pelvis
 penado                         efforts
-penco                          penny
-pendglisilo                    hang-glider
-pendi                          droop, hang
+::penny::penco
+::hang-glider::pendglisilo
+::droop::pendi
+::hang::pendi
 pendigi                        hang
 pendkolumo                     bands
 pendumi                        hang
-pene                           with effort
-Penelopo                       Penelope
-penetri                        penetrate
+::with effort::pene
+::Penelope::Penelopo
+::penetrate::penetri
 peni                           aim, attempt, endeavour, try
 penicilino                     penicillin
 penigaĵoj                      fuss, to-do
-peniko                         paintbrush
+::paintbrush::peniko
 peniseto                       peter, willy
-peniso                         penis
-peno                           effort
-pensi                          think
+::penis::peniso
+::effort::peno
+::think::pensi
 pensiiĝi                       go on pension, retire
 pensio                         pension, retirement
 pensiono                       boarding house, boarding school
 pensiulo                       pensioner, retiree
-penso                          thought
+::thought::penso
 pentanta                       contrite, penitent, repentant
 Pentateŭko                     Pentateuch
 Pentekosto                     Pentecost, Whitsunday
@@ -9870,7 +9897,7 @@ pento                          repentance
 pentofari                      do penance
 pentraĵkadro                   frame, picture-frame
 pentraĵo                       painting, picture
-pentri                         paint
+::paint::pentri
 pentristo                      painter
 peono                          pawn
 pepi                           chirp, peep, twitter
@@ -9885,7 +9912,7 @@ perdi                          lose
 perdiĝi                        be lost, get lost
 perdita                        lost
 perdo                          loss
-perdriko                       partridge
+::partridge::perdriko
 pere de                        per
 perei                          perish
 pereigi                        destroy, ruin
