@@ -115,13 +115,13 @@ abortigi                       abort
 abortigisto                    abortionist
 abortigo                       abortion
 aborto                         abortion
-Abrahamo                       Abraham
-abraziiĝi                      cave in
-abreviacio                     abbreviation
+Abraham::Abrahamo
+cave in::abraziiĝi
+abbreviation::abreviacio
 abrikoto                       apricot
 abrogacio                      abrogation
-abrupta                        abrupt
-abrupte                        abruptly
+abrupt::abrupta
+abruptly::abrupte
 absceso                        abscess
 absciso                        abscissa
 absejli                        abseil
@@ -4243,8 +4243,8 @@ grafo                          count, earl
 grajno                         grain, granule, pip
 graki                          caw, croak
 Gralkavaliro                   Grail Knight
-Gralo                          Grail
-gramatiko                      grammar
+Grail::Gralo
+grammar::gramatiko
 gramo                          gram, gramme
 gramofondisko                  grammophone disc
 gramofono                      phonograph, record-player
@@ -4258,19 +4258,19 @@ Grandaj Antiloj                Greater Antilles
 grandanima                     magnanimous
 grandeco                       size
 grandega                       enormous, huge, immense
-grandege                       enormously
+enormously::grandege
 grandioza                      grand, grandiose, magnificent, superb
 grando                         size
 grandparte                     for the greater part, for the most part
 grandvalora                    costly, valuable
 granita                        granite
 granito                        granite
-grapfrukto                     grapefruit
+grapefruit::grapfrukto
 grapolo                        cluster
 grasa                          fat, fatty, greasy
 grasi                          grease
 graso                          fat, grease
-gratado                        scrabble
+scrabble::gratado
 grati                          scratch
 gratuli                        congratulate
 gratulo                        congratulation
@@ -14322,12 +14322,13 @@ zoologo                        zoologist
 zorga                          careful, tender
 zorgato                        pupil
 zorgeme                        carefully
-zorgetoj                       worries
-::zorgi                          care, see, take care, worry
+::worries::zorgetoj
+;::zorgi                          care, see, take care, worry;
 ::care for::zorgi por
 ::care about::zorgi pri
 ::take care of::zorgi pri
-zorgo                          care, concern
+::concern::zorg
+::care::zorgo
 ::worries::zorgoj
 ::anxiously::zorgplena
 :?:anxious::zorgplene
